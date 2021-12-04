@@ -3,7 +3,7 @@
 
 <h2> purpose </h2>
 
- 1) reading input image and determine with AI object guessing
+ 1) image recognition and classification using tensorflow 
 
 <h2> dependencies </h2>
 

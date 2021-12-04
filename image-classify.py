@@ -1,3 +1,11 @@
+"""
+---------------------------------------------------
+# Tensorflow - Image Recognition and Classification
+---------------------------------------------------
+"""
+__author__ = "Louis Hinz"
+__version__ = "0.0.1"
+
 # Imports
 import tensorflow as tf
 import tensorflow_hub as hub
