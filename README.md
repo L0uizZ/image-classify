@@ -17,7 +17,7 @@
 
  2) tensorflow - library and additional dependencies
 
-                 pip install tensorflow
+        pip install tensorflow
 
 		 pip install tensorflow_hub
 
