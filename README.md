@@ -9,7 +9,7 @@
 
  1) create virtual environment
 
-         cd fynbird-fynbill
+         cd image-classify
 
          python -m venv venv
 
@@ -17,7 +17,7 @@
 
  2) tensorflow - library and additional dependencies
 
-         pip install tensorflow
+                 pip install tensorflow
 
 		 pip install tensorflow_hub
 
