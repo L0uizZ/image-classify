@@ -3,7 +3,7 @@
 # Tensorflow - Image Recognition and Classification
 ---------------------------------------------------
 """
-__author__ = "Louis Hinz"
+__author__ = "L0uizZ"
 __version__ = "0.0.1"
 
 # Imports
